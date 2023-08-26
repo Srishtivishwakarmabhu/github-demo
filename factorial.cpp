@@ -4,7 +4,7 @@ using namespace std;
 int main() {
     int n, factorial = 1;
 
-    cout << "Enter a positive integer: ";
+    cout << "Enter an integer value   : ";
     cin >> n;
     
     if(n<0){
